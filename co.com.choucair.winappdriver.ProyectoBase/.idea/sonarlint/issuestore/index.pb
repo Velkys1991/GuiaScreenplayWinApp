@@ -1,0 +1,23 @@
+
+j
+:co.com.choucair.winappdriver.flightgui/serenity.properties,7\2\726ac7f9ed02aeb6100d69d813a41e46fa66c413
+¡
+qco.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/models/DataModel.java,0\a\0a3eea4d8592c932dd7d9b0d878b85a572fd624e
+ 
+pco.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/utils/Constants.java,b\1\b124861336eee9e1c21af2f10f302259c1558897
+®
+~co.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/userinterfaces/CalculatorPage.java,c\9\c996e22145e652e1afd874c20d5f84511d3bf787
+¥
+uco.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/questions/VerifyWith.java,c\b\cb9d5f1c083c535ca427b4dc4c858511ba0846b3
+­
+}co.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/userinterfaces/AppCalculator.java,a\6\a6d0931abd75e786b6b339b10e6251b1af5e652f
+ž
+nco.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/tasks/OpenThe.java,f\3\f343053b715cb2044ecdb92e3a2af39e9242f047
+ž
+nco.com.choucair.winappdriver.flightgui/src/main/java/co/com/choucair/winappdriver/flightgui/tasks/DataCal.java,6\9\69c4827e0908de909c319ef91ed53f582c740327
+»
+Šco.com.choucair.winappdriver.flightgui/src/test/java/co/com/choucair/winappdriver/flightgui/stepdefinitions/CalculatorStepDefinitions.java,e\3\e30580dfa49ad5725eaf053ddd1696aa0357f815
+£
+sco.com.choucair.winappdriver.flightgui/src/test/java/co/com/choucair/winappdriver/flightgui/runners/RunnerTags.java,8\8\8830990478b44a590a7b5621df0f6895b602b562
+c
+3co.com.choucair.winappdriver.flightgui/build.gradle,e\2\e271ef46ae29c36d6f2cdbbfc91be48e7484b555
